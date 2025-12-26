@@ -14,13 +14,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Project Manager (PM): coordinate delivery, schedules, risk, communications.
+- Product Manager (PdM): define outcomes, prioritize backlog, and measure success.
 - Developers: implement features, collaborate on design and testability.
-- Design Lead: shapes visual and interaction design, maintains design systems.
-- UX Researcher: conducts user research, provides data-driven insights for product decisions.
-- Business Analyst: bridges business needs and technical solutions, documents requirements.
-- Quality Assurance Lead: defines test strategy, ensures products meet quality standards.
+- Design Lead: shape visual and interaction design, maintain design systems.
+- UX Researcher: conduct user research, provide data-driven insights for product decisions.
+- Business Analyst: bridge business needs and technical solutions, document requirements.
+- Quality Assurance Lead: define test strategy, ensure products meet quality standards.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

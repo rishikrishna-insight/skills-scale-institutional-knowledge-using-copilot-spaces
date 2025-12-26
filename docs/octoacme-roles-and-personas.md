@@ -100,10 +100,10 @@ Design Leads shape the visual and interaction design of products. They ensure de
 - Regular sync with UX Researchers to incorporate research findings
 
 ### Interactions with Other Roles
-- **Product Managers**: Collaborates to understand product requirements and translate them into design solutions that meet user needs and business goals
-- **Developers**: Works closely during implementation to ensure designs are technically feasible and provides ongoing support for design questions during development
-- **UX Researchers**: Partners to incorporate user research insights into design decisions and validates designs through user testing
-- **Project Managers**: Provides design estimates and timeline inputs, participates in sprint planning to ensure design work is properly scoped
+- **Product Managers**: Collaborate to understand product requirements and translate them into design solutions that meet user needs and business goals
+- **Developers**: Work closely during implementation to ensure designs are technically feasible and provide ongoing support for design questions during development
+- **UX Researchers**: Partner to incorporate user research insights into design decisions and validate designs through user testing
+- **Project Managers**: Provide design estimates and timeline inputs, participate in sprint planning to ensure design work is properly scoped
 
 ---
 
@@ -132,10 +132,10 @@ Business Analysts bridge the gap between business needs and technical solutions.
 - Business case presentations to leadership
 
 ### Interactions with Other Roles
-- **Product Managers**: Collaborates to refine product vision into detailed requirements and helps prioritize features based on business impact analysis
-- **Project Managers**: Provides input on scope, helps identify dependencies, and assists in risk assessment from a business perspective
-- **Developers**: Translates business requirements into technical specifications and clarifies functional requirements throughout development
-- **Quality Assurance Lead**: Partners to define acceptance criteria and supports UAT planning by identifying key business scenarios to test
+- **Product Managers**: Collaborate to refine product vision into detailed requirements and help prioritize features based on business impact analysis
+- **Project Managers**: Provide input on scope, help identify dependencies, and assist in risk assessment from a business perspective
+- **Developers**: Translate business requirements into technical specifications and clarify functional requirements throughout development
+- **Quality Assurance Lead**: Partner to define acceptance criteria and support UAT planning by identifying key business scenarios to test
 
 ---
 
@@ -164,10 +164,10 @@ UX Researchers advocate for users by conducting research to understand user beha
 - Documentation of research insights in shared repositories
 
 ### Interactions with Other Roles
-- **Product Managers**: Partners to identify research questions, validates product hypotheses, and provides user insights to inform roadmap prioritization
-- **Design Lead**: Collaborates on research planning, conducts usability testing on designs, and provides user feedback to inform design iterations
-- **Developers**: Shares user insights to help the team understand user context and validates technical solutions meet user needs
-- **Business Analyst**: Coordinates on requirement validation and provides user perspective to complement business requirements
+- **Product Managers**: Partner to identify research questions, validate product hypotheses, and provide user insights to inform roadmap prioritization
+- **Design Lead**: Collaborate on research planning, conduct usability testing on designs, and provide user feedback to inform design iterations
+- **Developers**: Share user insights to help the team understand user context and validate technical solutions meet user needs
+- **Business Analyst**: Coordinate on requirement validation and provide user perspective to complement business requirements
 
 ---
 
@@ -196,10 +196,10 @@ Quality Assurance Leads ensure that products meet quality standards before relea
 - Quality metrics reporting to stakeholders
 
 ### Interactions with Other Roles
-- **Developers**: Collaborates on testability of features, reviews test coverage, and works together on bug reproduction and resolution
-- **Product Managers**: Validates that implemented features meet acceptance criteria and business requirements, provides input on quality vs. timeline trade-offs
-- **Project Managers**: Reports on testing progress, flags quality risks, and provides input on release readiness
-- **Business Analyst**: Works together to understand business requirements and translate them into comprehensive test scenarios that validate business value
+- **Developers**: Collaborate on testability of features, review test coverage, and work together on bug reproduction and resolution
+- **Product Managers**: Validate that implemented features meet acceptance criteria and business requirements, provide input on quality vs. timeline trade-offs
+- **Project Managers**: Report on testing progress, flag quality risks, and provide input on release readiness
+- **Business Analyst**: Work together to understand business requirements and translate them into comprehensive test scenarios that validate business value
 
 ---
 
