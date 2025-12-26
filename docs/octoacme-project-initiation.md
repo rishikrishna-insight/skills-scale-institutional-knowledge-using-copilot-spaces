@@ -28,6 +28,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - Design Lead (if design work required):
+  - UX Researcher (if user research needed):
+  - Business Analyst (if complex requirements):
+  - Quality Assurance Lead:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
